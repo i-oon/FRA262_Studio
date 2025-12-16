@@ -1,0 +1,4 @@
+../Core/Src/MotorDriver.c:13:6:MotorDriver_Init	24	static
+../Core/Src/MotorDriver.c:25:6:MotorDriver_Set	16	static
+../Core/Src/MotorDriver.c:39:6:ServoDriver_Init	24	static
+../Core/Src/MotorDriver.c:46:6:ServoDriver_Set	16	static

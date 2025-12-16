@@ -1,0 +1,4 @@
+../Core/Src/Encoder.c:15:6:Encoder_Init	1
+../Core/Src/Encoder.c:41:10:GetCount	1
+../Core/Src/Encoder.c:50:6:Encoder_Compute	2
+../Core/Src/Encoder.c:79:6:Encoder_Reset	1

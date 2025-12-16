@@ -1,0 +1,6 @@
+../Core/Src/TrajectoryGenerator.c:19:6:init_trapezoidal	2
+../Core/Src/TrajectoryGenerator.c:47:6:generate_trapezoidal	8
+../Core/Src/TrajectoryGenerator.c:104:6:activate_generator	1
+../Core/Src/TrajectoryGenerator.c:107:6:deactivate_generator	1
+../Core/Src/TrajectoryGenerator.c:111:9:check_status	1
+../Core/Src/TrajectoryGenerator.c:115:5:sign	4

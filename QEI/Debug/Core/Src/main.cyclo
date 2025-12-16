@@ -1,0 +1,8 @@
+../Core/Src/main.c:277:5:main	5
+../Core/Src/main.c:400:6:SystemClock_Config	3
+../Core/Src/main.c:443:6:HAL_TIM_PeriodElapsedCallback	30
+../Core/Src/main.c:614:10:micros	1
+../Core/Src/main.c:618:6:calculateWaypoints	4
+../Core/Src/main.c:650:6:reset_pris	1
+../Core/Src/main.c:674:6:reset_rev	1
+../Core/Src/main.c:704:6:Error_Handler	1

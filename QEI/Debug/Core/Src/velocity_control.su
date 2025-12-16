@@ -1,0 +1,3 @@
+../Core/Src/velocity_control.c:36:6:VelocityPID_Init	32	static
+../Core/Src/velocity_control.c:62:6:VelocityPID_Update	24	static
+../Core/Src/velocity_control.c:135:6:VelocityPID_Reset	16	static
